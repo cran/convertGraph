@@ -1,0 +1,9 @@
+6819ddea8df0f3599aff4b7a984ae07a *DESCRIPTION
+1c1a14038ae2265cb427822e0627a168 *LICENSE
+f902e68f6c2b7bdd7290114f76a9beac *NAMESPACE
+75ad0a363d043f9b520e65579fcaef28 *R/convertGraph.R
+7aae5de39a0758d899e3d114a273712e *R/install.phantom.R
+d41d8cd98f00b204e9800998ecf8427e *inst/PATHMEMORY
+74d0be3d66005461ed7c47ef72ca2a17 *inst/lib/command.js
+3b429b2c737f4d3f3f848075122fb033 *man/convertGraph.Rd
+4594899a586e590ae10b63c1240b17c8 *man/install.phantom.Rd
